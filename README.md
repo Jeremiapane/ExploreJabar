@@ -74,7 +74,7 @@ Staf Humas dapat mengelola pembuatan artikel dan konten terkait destinasi atau o
 
 1. Akses dashboard melalui browser pada URL:
     ```
-    http://localhost:8000
+    http://localhost:8000/dinas/login
     ```
 2. Login dengan akun admin untuk mengelola data dan memonitor UMKM.
 
